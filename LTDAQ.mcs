@@ -1,0 +1,118 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Assembler\LT DAQ\main.obj
+Folder=Intermediary
+[File001]
+Location=C:\Assembler\LT DAQ\main.sdb
+Folder=Intermediary
+[File002]
+Location=C:\Assembler\LT DAQ\main.rlf
+Folder=Intermediary
+[File003]
+Location=C:\Assembler\LT DAQ\main.lst
+Folder=Intermediary
+[File004]
+Location=C:\Assembler\LT DAQ\delay.obj
+Folder=Intermediary
+[File005]
+Location=C:\Assembler\LT DAQ\delay.sdb
+Folder=Intermediary
+[File006]
+Location=C:\Assembler\LT DAQ\delay.rlf
+Folder=Intermediary
+[File007]
+Location=C:\Assembler\LT DAQ\delay.lst
+Folder=Intermediary
+[File008]
+Location=C:\Assembler\LT DAQ\LTDAQ.cof
+Folder=Output
+DeviceName=
+LanguageToolSuiteID=
+LanguageToolID=
+LanguageToolLocation=
+PPAD=
+SOLK=
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=C:\Assembler\LT DAQ\LTDAQ.hex
+Folder=Output
+DeviceName=
+LanguageToolSuiteID=
+LanguageToolID=
+LanguageToolLocation=
+PPAD=
+SOLK=
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=C:\Assembler\LT DAQ\LTDAQ.sym
+Folder=Output
+DeviceName=
+LanguageToolSuiteID=
+LanguageToolID=
+LanguageToolLocation=
+PPAD=
+SOLK=
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File011]
+Location=C:\Assembler\LT DAQ\LTDAQ.map
+Folder=Output
+DeviceName=
+LanguageToolSuiteID=
+LanguageToolID=
+LanguageToolLocation=
+PPAD=
+SOLK=
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File012]
+Location=C:\Assembler\LT DAQ\LTDAQ.hxl
+Folder=Output
+DeviceName=
+LanguageToolSuiteID=
+LanguageToolID=
+LanguageToolLocation=
+PPAD=
+SOLK=
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File013]
+Location=C:\Assembler\LT DAQ\startup.lst
+Folder=Output
+DeviceName=
+LanguageToolSuiteID=
+LanguageToolID=
+LanguageToolLocation=
+PPAD=
+SOLK=
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File014]
+Location=C:\Assembler\LT DAQ\startup.rlf
+Folder=Output
+DeviceName=
+LanguageToolSuiteID=
+LanguageToolID=
+LanguageToolLocation=
+PPAD=
+SOLK=
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
